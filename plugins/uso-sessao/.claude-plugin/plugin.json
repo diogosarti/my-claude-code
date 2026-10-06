@@ -1,0 +1,9 @@
+{
+  "name": "uso-sessao",
+  "version": "0.1.0",
+  "description": "Mostra contexto, custo e uso da assinatura na status line",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Diogo Julio"
+  }
+}

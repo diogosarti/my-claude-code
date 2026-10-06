@@ -1,0 +1,5 @@
+{
+  "name": "my-claude-code",
+  "owner": { "name": "Diogo Julio" },
+  "plugins": [{ "name": "uso-sessao", "source": "./plugins/uso-sessao" }]
+}
